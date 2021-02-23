@@ -1,0 +1,27 @@
+﻿html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    background-color: white;
+}
+
+.chat {
+    margin: auto;
+}
+
+.container {
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    margin: auto;
+    background-color: lightgrey;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
